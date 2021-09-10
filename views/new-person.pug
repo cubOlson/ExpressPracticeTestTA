@@ -1,0 +1,10 @@
+form(method='post' action='/new-person')
+    input(type='hidden' name='_csrf' value=token)
+    input(type='text' name='firstName' required)
+    input(type='text' name='lastName' required)
+    input(type='number' name='age')
+    textarea(name='biography')
+    select(name='hairColorId' required)
+        each color in hairColors
+            option(value=color.id)= color.color
+    button(type='submit') Submit
