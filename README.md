@@ -282,4 +282,4 @@ Again, the styling is not important to the tests.
 
 [New person form]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/express/assessments/practice/assets/new-person-screen.png
 
-[person list page]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/express/assessments/practice/assets/person-list-screen.png
+[person list page]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/express/assessments/practice/assets/person-list-screen.png# ExpressPracticeTestTA
